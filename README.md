@@ -1,18 +1,19 @@
 <h1 align="center">Hey there! 👋 I'm Aniket More</h1>
 
 <p align="center">
-  📚 MCA Student | 💻 Front-End Developer | 🐍 Python Learner | 🎨 Node.js <br>
+  📚 MCA Student | 💻 Full-Stack Developer | 🐍 Python Learner | 🎨 Node.js | 🌐 Web Developer <br>
   💡 Always learning, always building!
 </p>
 
 ---
 
 ## 🌟 About Me  
-- 🎓 MCA student passionate about building beautiful interfaces  
-- 💡 Interested in building real-world projects with **HTML, CSS, JavaScript, and Python**  
-- 📂 Currently working on: **E-Commerce Web Project** using Node.js  
-- 🏆 Goal: To become a **Full Stack Web Developer**  
-- ⚡ Fun fact: I love **coding + gym + 😋**  
+- 🎓 Passionate about **Web Development & Python**  
+- 💡 Skilled in **Frontend (HTML, CSS, JS)** and **Backend (Python, Express.js, Node.js basics)**  
+- ⚡ Building **real-world projects** like E-Commerce apps & Finance Manager  
+- 🌱 Currently learning: **React.js + MongoDB + APIs**  
+- 🏆 Goal: Become a **Full-Stack Web Developer**
+- ⚡ Fun fact: I love **coding + gym + 😋**
 
 ---
 
