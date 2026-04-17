@@ -1,49 +1,77 @@
-<h1 align="center">Hey there! 👋 I'm Aniket More</h1>
+# 👋 Hi, I'm **Aniket**
 
-<p align="center">
-  📚 MCA Student | 💻 Full-Stack Developer | 🐍 Python Learner | 🎨 Node.js | 🌐 Web Developer <br>
-  💡 Always learning, always building!
-</p>
+### 🚀 *DevOps Engineer | Cloud Engineer | Linux Engineer*
 
----
-
-## 🌟 About Me  
-- 🎓 Passionate about **Web Development & Python**  
-- 💡 Skilled in **Frontend (HTML, CSS, JS)** and **Backend (Python, Express.js, Node.js basics)**  
-- ⚡ Building **real-world projects** like E-Commerce apps & Finance Manager  
-- 🌱 Currently learning: **React.js + MongoDB + APIs**  
-- 🏆 Goal: Become a **Full-Stack Web Developer**
-- ⚡ Fun fact: I love **coding + gym + 😋**
+🌐 Passionate about automating, monitoring, and optimizing infrastructure.
+☁️ Skilled in AWS, CI/CD pipelines, Linux systems, containerization, and IaC.
+⚙️ I love building reliable, scalable, production-ready systems.
 
 ---
 
-## 🛠️ Tech Stack  
+## $${\color{#FF9800} \textbf{🔧 \ Tools}}$$
 
-### 🌐 Frontend  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-### 🐍 Backend / Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-### ⚙️ Tools  
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)  
+| **🐧 Linux** | **🏗️ Terraform** | **⚙️ Jenkins** | **📦 Kubernetes** | **🛠️ Ansible** | **🔄 Git** | **🐳 Docker** | **👨‍💻 GitHub** | **☁️ AWS** | **📜 Bash** | **🌐 Azure** |
+|:---------:|:-------------:|:-----------:|:--------------:|:-----------:|:----------:|:-------:|:----------:|:----------:|:----------:|:----------:|
+|    ![linux-original](https://github.com/user-attachments/assets/81e3caf9-68d9-4ee3-b377-82c3423a2630)       | <a href="https://github.com/Gaurav1251/Devops_Tasks/tree/main/Terraform" target="_self"> ![terraform-original](https://github.com/user-attachments/assets/66b136b9-0506-4810-be8c-88bda0de1e70)</a>              |  <a href="" target="_self">![jenkins-original](https://github.com/user-attachments/assets/8fa29f4f-ba3d-4018-9345-2c62c809f967)</a>           |<a href="https://github.com/Gaurav1251/Devops_Tasks/tree/main/K8s" target="_self">![kubernetes-original](https://github.com/user-attachments/assets/c7142faf-34cc-4d43-8173-0ecc12e55ddb)</a>                |  <a href="" target="_self">![ansible-original](https://github.com/user-attachments/assets/bde78462-a07f-4721-90ed-7d872491919b)</a>           |  <a href="" target="_self">![git-original](https://github.com/user-attachments/assets/ab278077-bd7f-4af9-95a1-a8351fa62e7b)</a>          |<a href="https://github.com/Gaurav1251/Devops_Tasks/tree/main/Docker" target="_self">![docker-original](https://github.com/user-attachments/assets/82963f3c-cce0-4cbe-8a1a-cce7427bdb76)</a>         |<a href="https://github.com/Gaurav1251" target="_self">![github-original](https://github.com/user-attachments/assets/a7e4df8e-1fb2-43b9-bcff-e8cacb1e85de)</a>          |  <a href="https://github.com/Gaurav1251/AWS_Tasks" target="_self">![aws(1)](https://github.com/user-attachments/assets/6d6164da-476c-4447-8691-a8861bbecbc0)</a>      |    <a href="" target="_self">![bash-original](https://github.com/user-attachments/assets/195f5fdf-0a9a-4851-9ae4-1b090bfea8c2)</a> | <a href="" target="_self">![azure-original](https://github.com/user-attachments/assets/157d416b-0e39-4c98-8d80-27799b1d414f)</a> 
+
+---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width="1800"
+  />
+</picture>
+
+### ☁️ **Cloud Platform**
+
+* 🌩 **AWS**: EC2, VPC, IAM, S3, CloudWatch, Load Balancer, ASG, Lambda, RDS, Cloudfront, AWS-CLI
+* **AZURE**
+* **GCP**
+* 🌍 Cloud Networking & Security Groups
+* 🛰 Route53, CloudFront
+
+### 🐧 **Linux Engineering**
+
+* 🖥 Advanced Linux Administration
+* 🧩 Shell Scripting (Bash)
+* 📂 File systems, ACL, Permissions
+* 🧵 Process Management
+* 🔍 Monitoring & Logs
 
 ---
 
-## 📂 Featured Projects   
-### 📊 Personal Finance Manager (Python Project)  
-🔗 *Coming Soon*  
+## 🚀 **What I Will Do**
+
+* Build and maintain CI/CD pipelines
+* Manage cloud infrastructure using Terraform
+* Automate deployments & configurations
+* Containerize applications with Docker
+* Work with Kubernetes clusters
+* Monitor infrastructure & optimize performance
+* Manage and harden Linux servers
 
 ---
 
-## 📊 GitHub Stats  
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aniketmore&show_icons=true&theme=github_dark) 
+## 📈 **Current Focus**
+
+* Improving cloud cost optimization
+* Learning Git/GitHub, Docker & Kubernetes, Teraform, jenkins 
+* Automating everything (because why not 😄)
 
 ---
 
-## 🌐 Connect with Me  
+## 📫 **Connect With Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-more-352b59338) [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aniket1288)  
+* ✉️ Email: aniketmore1935@gmail.com
+* 💼 LinkedIn: Aniket More
 
----
 
-⭐ *If you like my work, feel free to star ⭐ my repositories!*  
