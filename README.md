@@ -1,5 +1,4 @@
-# 👋 Hi, I'm **Aniket**
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&width=435&lines=+%F0%9F%91%8B+Hi%2C+I'm+Aniket" alt="Typing SVG" /></a>
 ### 🚀 *DevOps Engineer | Cloud Engineer | Linux Engineer*
 
 🌐 Passionate about automating, monitoring, and optimizing infrastructure.
