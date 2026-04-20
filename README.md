@@ -7,6 +7,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3NzcHl2aWMxNDFlNWZ0cWx6cmxqY3YzdmYyYnFhMzNuajFkNjVlZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="400" />
+</p>
+
+---
+
 ## $${\color{#FF9800} \textbf{🔧 \ Tools}}$$
 
 | **🐧 Linux** | **🏗️ Terraform** | **⚙️ Jenkins** | **📦 Kubernetes** | **🛠️ Ansible** | **🔄 Git** | **🐳 Docker** | **👨‍💻 GitHub** | **☁️ AWS** | **📜 Bash** | **🌐 Azure** |
